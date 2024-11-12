@@ -1,8 +1,5 @@
 # speech_recognition
 
-Here's a basic README template for your project on GitHub. You can modify it to better reflect your specific needs or project details:
-
-````markdown
 # Audio Command Recognition System
 
 This project implements an **Audio Command Recognition System** using MATLAB and deep learning. The system records an audio command, processes it, and classifies it into predefined categories. It uses a trained neural network model to make predictions and displays the predicted class with its probability.
@@ -28,10 +25,10 @@ Before running the project, ensure you have the following:
 ## Setup
 
 1. **Clone this repository**:
+
    ```bash
    git clone https://github.com/yourusername/audio-command-recognition.git
    ```
-````
 
 2. **Install required packages**:
    Make sure you have the necessary MATLAB toolboxes installed (e.g., Deep Learning Toolbox, Audio Toolbox). You can install them using the MATLAB Add-On Explorer.
@@ -94,9 +91,8 @@ To train your own model:
 
 This project is open Sourced.
 
-```
-
 ### Explanation:
+
 - **Introduction**: Describes what the project does.
 - **Features**: Lists the main functionalities of the system.
 - **Prerequisites**: Specifies the necessary tools and libraries.
@@ -105,4 +101,3 @@ This project is open Sourced.
 - **Model Training**: Provides a brief on how to train the model if needed.
 - **Acknowledgments**: Credits to tools and resources used.
 - **License**: Licensing info (optional, you can adjust based on your needs).
-```
